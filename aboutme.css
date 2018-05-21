@@ -1,0 +1,34 @@
+.clr{
+	background-color: #e6fff2;	
+}
+.clr2{
+	color: #990000;
+	font-family: Helvatica;
+	font-style: italic;
+}
+.mrg{
+	margin-top: 250px;
+}
+.frmclr {
+	background-color: #bdf72c;
+	border: 4px groove #44473b;
+	margin-top: 50px;
+	margin-left: 500px;
+	margin-right: 500px;
+}
+.mrg2{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.f{
+	color: #158e1d;
+	font-family: Palatino Linotype;
+	font-weight: bold;
+	font-style: italic;
+}
+.f2{
+	color:#646641;
+	font-family: Courier New;
+	font-weight:bold;
+	font-style:oblique;
+}
